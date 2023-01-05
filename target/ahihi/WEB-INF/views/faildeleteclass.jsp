@@ -1,0 +1,1 @@
+fail to delete class !!!
